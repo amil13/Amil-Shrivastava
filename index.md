@@ -5,105 +5,104 @@
 - Email: [amilumang13@gmail.com](mailto:amilumang13@gmail.com)
 - LinkedIn: [www.linkedin.com/amsh](https://www.linkedin.com/amsh)
 
-## Summary
+## Professional Summary
 
-Embedded Software Engineer with a background in Engineering, business, and innovation.
+Embedded Software Engineer with over 2 years of experience in developing and maintaining embedded systems. Proficient in C/C++ and Python, with a strong background in BLE communication protocols, MCU architectures, and embedded toolchains. Adept at troubleshooting, debugging, and collaborating with cross-disciplinary teams to deliver reliable, manufacturable solutions. Experienced in Agile development methodologies and capable of working in remote and dynamic environments.
 
-## Work Experience
+## Professional Experience
 
-### Embedded Software Engineer at CIS Electronics, Spain
-**October 2022 - Present**
+## Professional Experience
 
-- Currently working on two different BLE stacks.
-- Added an API in the stack to be able to change I/O config via a proprietary engine for testing.
-- Developed test cases using pytest to test various BLE features such as advertising, connections, security.
-- Used various test suits such as: Harmony, BLE Profile Tuning Suite.
-- Ported stack APIs for the company’s proprietary engine.
-- Developed and tested BLE applications (Top most layer of the stack).
-- Worked with YAML to configure pipelines for CI/CD.
-- **Languages:** C and Python
-- **Microprocessor:** nrf52840
-- **Tools:** Azure DevOps, VS Code, Git
-- **Operating Systems:** Ubuntu, Windows
+### Embedded Software Engineer
+**Tekskil SL, Remote (Barcelona)**  
+*Ongoing*
 
-### Technical Product Manager at Industrial Shields, Barcelona
-**March 2021 - September 2022**
+- Develop and maintain Bluetooth Low Energy (BLE) over-the-air communication protocols.
+- Troubleshoot and debug third-party protocol stacks and develop demo applications.
+- Maintain internal BLE host stack interface tools and support infrastructure.
+- Assist in BLE qualification processes and UnPlugFests (UPF).
+- **Tools & Technologies:** C, Python, VS Code, Azure DevOps, NRF 52840.
+- **Methodology:** Agile (2-3 weeks sprints).
 
-#### Technical Product Management:
-- Lead the development of 3 company products:
-  - AI enabled Intelligent Programmable Logic Controller (PLC)
-  - Cloud enabled IoT controller (B2B)
-  - DIY Mechatronics kit (B2B)
-- Independently outlined product scope and vision from scratch that aligned with market needs.
-- Designed and executed market analysis with the marketing department.
-- Assessed competitors and identified user requirements.
-- Created actionable strategy and product roadmap with the R&D department.
-- Coordinated with H/W and S/W departments for the development stage.
-- Kept senior stakeholders (CEO, CTO, etc.) updated with the development process.
-- Implemented hybrid SCRUM methodology for smooth product development.
-- Maintained product artefacts like product backlog, sprint backlogs, user stories, etc.
-- Revamped company's hardware development SoPs for higher reliability and efficiency.
+### Software Engineer
+**Cactus IoT, Barcelona**  
+*October 2022 - Present*
 
-#### Assisted Software Department:
-- Developed PLC automated testing software with Python using Tkinter and PyCharm.
-- Designed automation solutions for international customers using company PLCs.
-- Maintained Python and C++ libraries for PLCs for protocols like MQTT, CAN bus, ModBus, LoRa, BLE, Ethernet, etc.
-- Connected SQL (ElephantSQL, PostgreSQL) and NoSQL (MongoDB, MariaDB) with PLCs to collect IoT data.
-- Integrated platforms like PowerBI, InfluxDB, and reviewed compatibility of Azure IoT platform with Industrial Shields products.
-- **Operating Systems:** Raspbian, Ubuntu, Windows
+- Developed notification features using mobile applications and BLE.
+- Implemented state machines, firmware development, and general architecture.
+- Utilized Zephyr RTOS to automate door lock mechanisms on nrf52840 microprocessors.
+- **Tools & Technologies:** C++ 20, Python, Confluence, Jira, Slack, SourceTree, Bitbucket.
+
+### Technical Product Manager (Industry 4.0)
+**Industrial Shields, Barcelona**  
+*March 2021 - September 2022*
+
+- Led the development of AI-enabled Intelligent Programmable Logic Controllers (PLC).
+- Defined product scope and vision, conducted market analysis, and coordinated with various departments.
+- Developed and maintained Python and C++ libraries for PLCs.
+- **Tools & Technologies:** Python, C++, PyCharm, Agile (SCRUM).
+
+### Research Engineer
+**Polytechnic University of Catalonia Drone Lab**  
+*July 2019*
+
+- Assisted in designing a wireless drone fleet management system.
+- Developed applications in C for IoT development boards.
+- **Technologies:** JavaScript, Apache Tomcat, PostgreSQL.
+
+### Intern
+**The Indian Institute of Information Technology and Management**  
+*July 2015*
+
+- Developed a common alerting protocol for disaster management systems using IoT sensors.
+- Automated web-based alert systems with PostgreSQL and JavaScript.
+
+### Freelance Computer Technician
+**In parallel with University**
+
+- Provided hardware and software technical support, enhancing hands-on experience with customer dealings.
+
+---
 
 ## Education
 
-### MBA in International Business Innovation
-**Barcelona Executive Business School | July 2020**
+**Bachelor's Degree in [Relevant Field]**  
+*University Name*  
+*Year of Graduation*
 
-### MSc in Aerospace Science and Technology
-**Polytechnic University of Catalunya | July 2019**
-
-### BTech in Electronics and Communication
-**Mahatma Gandhi College of Engineering and Technology | May 2016**
-
-### Research Engineer at the Polytechnic University of Catalonia Drone Lab
-**July 2019**
-- Project: Connecting drones to the internet cloud using mobile networks.
-- Assisted in the design and implementation of a wireless drone fleet management system (SaaS).
-- Contributed in designing the frontend and programmed the backend using JavaScript, Apache Tomcat, and PostgreSQL.
-- Designed and coded applications in C that run on IoT development board (Mangoh Red).
-- Collected telemetry and payload data of the drone, stored in the database, and tracked GPS data on Google Maps in real-time using PostGIS.
-- Reviewed the laws for drone integration in EU, USA, and Canada.
-
-### Intern at The Indian Institute of Information Technology and Management
-**July 2015**
-- Project: Development of a common alerting protocol for disaster management systems.
-- Automated web-based alert system using IoT Sensors, PostgreSQL Database, JavaScript, etc.
-- Collected data, processed it, and generated alerts.
-
-### Freelance Computer Technician
-- Provided hardware and software technical support.
-- Hands-on experience with one-on-one customer dealing.
+---
 
 ## Key Skills
 
-**Technical:**
-- Experienced in languages: Python (Django, Pandas, Numpy, Matplotlib, etc.), C, C++, JavaScript, SQL, Java, Solidity.
-- Experience with Bash Scripting.
-- Experience working with PostgreSQL, PostGIS, MongoDB, InfluxDB, ElephantSQL, Flutter, Matlab, Jupyter Notebook, etc.
-- Experienced user of Miro, Figma, Notion, etc.
-- Experience with Jira, Confluence, SourceTree, Bitbucket, PyCharm, VSCode, Github, Odoo, Google Docs, Canva, etc.
-- Boards/Chips: NRF 52840, Raspberry Pi, Arduino, ESP32, Atmega 16, ESP8266 (IoT), MSP430, Mangoh Red (IoT), OpenMote.
-- Operating Systems: Debian-based (Ubuntu and Raspbian) and Windows.
+- **Programming Languages:** C, C++, Python, SQL, Solidity, Go, Bash Scripting.
+- **Embedded Systems:** BLE, MCU architectures, DSP fundamentals, HW/SW debugging.
+- **Development Tools:** VS Code, PyCharm, Azure DevOps, Jira, Confluence, Bitbucket.
+- **Boards/Chips:** Raspberry Pi, Arduino, ESP32, Atmega 16, ESP8266, MSP430, Mangoh Red, OpenMote.
+- **Methodologies:** Agile (SCRUM, KANBAN), User-Centered Design.
+- **Technical Skills:** Firmware development, state machines, RTOS (Zephyr), FPGA development, RF, BLE, TCP/IP stacks.
 
-**Business Innovation:**
-- Undertook an open-exo sprint with core and edge initiatives in applied innovations for managing disruptions.
-- Systematisation of Innovation using RxDxI Model.
-- Agile methodology (KANBAN and SCRUM) and User-Centered Design.
-- Knowledgeable in open innovations typologies such as “suggestive, participative” and “Directed, Invitational”.
+---
 
-**Management, Communication, and Organization:**
-- Effective communicator.
-- Analytical problem solver.
-- Quick learner.
-- Curious.
+## Languages
+
+- **Spanish:** A2 Certificate
+- **English:** Bilingual
+- **Hindi:** Bilingual
+
+---
+
+## Certificates and Courses
+
+- Data Analytics with Python
+- Statistics with Python
+
+---
+
+## Personal Attributes
+
+- Effective communicator and analytical problem solver.
+- Quick learner with a curiosity-driven approach.
+- Strong organizational and management skills.
 
 ## Languages
 - **Spanish:** A2 Certificate
