@@ -6,10 +6,9 @@
 - LinkedIn: [www.linkedin.com/amsh](https://www.linkedin.com/amsh)
 
 ## Professional Summary
-
+<p style="text-align: justify;">
 Embedded Software Engineer with over 2 years of experience in developing and maintaining embedded systems. Proficient in C/C++ and Python, with a strong background in BLE communication protocols, MCU architectures, and embedded toolchains. Adept at troubleshooting, debugging, and collaborating with cross-disciplinary teams to deliver reliable, manufacturable solutions. Experienced in Agile development methodologies and capable of working in remote and dynamic environments.
-
-## Professional Experience
+</p>
 
 ## Professional Experience
 
