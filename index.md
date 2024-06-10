@@ -7,7 +7,7 @@
 
 ## Professional Summary
 <p style="text-align: justify;">
-Embedded Software Engineer with over 2 years of experience in developing and maintaining embedded systems. Proficient in C/C++ and Python, with a strong background in BLE communication protocols, MCU architectures, and embedded toolchains. Adept at troubleshooting, debugging, and collaborating with cross-disciplinary teams to deliver reliable, manufacturable solutions. Experienced in Agile development methodologies and capable of working in remote and dynamic environments.
+Embedded Software Engineer with over 2 years of experience in developing and maintaining embedded systems. Proficient in C/C++ and Python, with a strong background in BLE communication protocols. Adept at troubleshooting, debugging, and collaborating with cross-disciplinary teams to deliver reliable, manufacturable solutions. Experienced in Agile development methodologies and capable of working in remote and dynamic environments.
 </p>
 
 ## Professional Experience
@@ -16,11 +16,11 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 **Tekskil SL, Remote (Barcelona)**  
 *Ongoing*
 
-- Develop and maintain Bluetooth Low Energy (BLE) over-the-air communication protocols.
+- Develop and maintain Bluetooth Low Energy (BLE) over-the-air communication protocol.
 - Troubleshoot and debug third-party protocol stacks and develop demo applications.
-- Maintain internal BLE host stack interface tools and support infrastructure.
-- Assist in BLE qualification processes and UnPlugFests (UPF).
-- **Tools & Technologies:** C, Python, VS Code, Azure DevOps, NRF 52840.
+- Maintain internal BLE host stack interface tools and support infrastructure:- create applications, adapt or create new APIs.
+- Assisted in creating scripts for BLE qualification processes and UnPlugFests (UPF).
+- **Tools & Technologies:** C, Python, VS Code, Azure DevOps, NRF 52840, nrf donlge.
 - **Methodology:** Agile (2-3 weeks sprints).
 
 ### Software Engineer
@@ -28,7 +28,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 *October 2022 - Present*
 
 - Developed notification features using mobile applications and BLE.
-- Implemented state machines, firmware development, and general architecture.
+- Implemented state machines and assisted in firmware development
 - Utilized Zephyr RTOS to automate door lock mechanisms on nrf52840 microprocessors.
 - **Tools & Technologies:** C++ 20, Python, Confluence, Jira, Slack, SourceTree, Bitbucket.
 
@@ -39,6 +39,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 - Led the development of AI-enabled Intelligent Programmable Logic Controllers (PLC).
 - Defined product scope and vision, conducted market analysis, and coordinated with various departments.
 - Developed and maintained Python and C++ libraries for PLCs.
+- Designed PLC solutions for customers
 - **Tools & Technologies:** Python, C++, PyCharm, Agile (SCRUM).
 
 ### Research Engineer
@@ -65,18 +66,22 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 
 ## Education
 
-**Bachelor's Degree in [Relevant Field]**  
-*University Name*  
-*Year of Graduation*
+**Master's Degree in Aerospace Science and Technology**  
+*Uttar Pradesh Technical University*  
+*2019*
+
+**Bachelor's Degree in Electronics and Communications**  
+*Uttar Pradesh Technical University*  
+*2016*
 
 ---
 
 ## Key Skills
 
-- **Programming Languages:** C, C++, Python, SQL, Solidity, Go, Bash Scripting.
-- **Embedded Systems:** BLE, MCU architectures, DSP fundamentals, HW/SW debugging.
-- **Development Tools:** VS Code, PyCharm, Azure DevOps, Jira, Confluence, Bitbucket.
-- **Boards/Chips:** Raspberry Pi, Arduino, ESP32, Atmega 16, ESP8266, MSP430, Mangoh Red, OpenMote.
+- **Programming Languages:** C, C++, Python, SQL, Go, Bash Scripting, JavaScript.
+- **Embedded Systems:** BLE, RTOS, DSP fundamentals, HW/SW debugging.
+- **Development Tools:** VS Code, Git, PyCharm, Azure DevOps, Jira, Confluence, Bitbucket.
+- **Boards/Chips:** Raspberry Pi, Arduino, ESP32, Atmega 16, ESP8266, MSP430, Mangoh Red, NRF52840, NRF5340.
 - **Methodologies:** Agile (SCRUM, KANBAN), User-Centered Design.
 - **Technical Skills:** Firmware development, state machines, RTOS (Zephyr), FPGA development, RF, BLE, TCP/IP stacks.
 
@@ -102,8 +107,3 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 - Effective communicator and analytical problem solver.
 - Quick learner with a curiosity-driven approach.
 - Strong organizational and management skills.
-
-## Languages
-- **Spanish:** A2 Certificate
-- **English:** Bilingual
-- **Hindi:** Bilingual
