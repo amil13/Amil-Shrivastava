@@ -7,7 +7,7 @@
 
 ## Professional Summary
 <p style="text-align: justify;">
-Embedded Software Engineer with over 2 years of experience in developing and maintaining embedded systems. Proficient in C/C++ and Python, with a strong background in BLE communication protocols. Adept at troubleshooting, debugging, and collaborating with cross-disciplinary teams to deliver reliable, manufacturable solutions. Experienced in Agile development methodologies and capable of working in remote and dynamic environments.
+Embedded Software Engineer with over 2 years of experience in developing and maintaining embedded systems. Proficient in C/C++ and Python, with a strong background in BLE communication protocols. Adept at troubleshooting, debugging, and collaborating with cross-disciplinary teams to deliver reliable, manufacturable solutions. Experienced in Agile development methodologies and Embedded systems development workflow. Skilled in operating effectively in remote and dynamic environments.
 </p>
 
 ## Professional Experience
@@ -16,11 +16,12 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 **Tekskil SL, Remote (Barcelona)**  
 *Ongoing*
 
-- Maintain Bluetooth Low Energy (BLE) over-the-air communication protocol focusing on the Host side.
+- Maintain Bluetooth Low Energy (BLE) over-the-air communication protocol focusing mainly on the Host side.
 - Troubleshoot and debug third-party protocol stacks and develop demo applications.
-- Maintain internal BLE host stack interface tools and support infrastructure:- create applications, adapt or create new APIs.
-- Assisted in creating scripts for BLE qualification processes and UnPlugFests (UPF).
-- **Tools & Technologies:** C, Python, VS Code, Azure DevOps, NRF 52840, nrf donlge.
+- Maintain internal BLE host stack interface tools and support infrastructure for testing BLE features:- create applications, adapt or create new APIs
+- Assist in creating scripts for BLE qualification processes and UnPlugFests (UPF).
+- **Tools & Technologies:** C, Python, VS Code, Azure DevOps, NRF 52840, nrf donlge. 
+- **Development Environment:** Microsoft Visual Studio, Eclipse.
 - **Methodology:** Agile (2-3 weeks sprints).
 
 ### Software Engineer
