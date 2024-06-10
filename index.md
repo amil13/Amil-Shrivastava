@@ -6,7 +6,7 @@ _Embedded software engineer based in Barcelona,Spain_ <br>
 - Email: [amilumang13@gmail.com](mailto:amilumang13@gmail.com)
 - LinkedIn: [www.linkedin.com/amsh](https://www.linkedin.com/amsh)
 
-## 👩🏼‍💻Professional Summary
+## :man_technologist: Professional Summary
 <p style="text-align: justify;">
 Embedded Software Engineer with over 2 years of experience in developing and maintaining embedded systems. Proficient in C/C++ and Python, with a strong background in BLE communication protocols. Adept at troubleshooting, debugging, and collaborating with cross-disciplinary teams to deliver reliable, manufacturable solutions. Experienced in Agile development methodologies and Embedded systems development workflow. Skilled in operating effectively in remote and dynamic environments.
 </p>
@@ -78,7 +78,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 
 ---
 
-## Key Skills
+## :technologist: Key Skills
 
 - **Programming Languages:** C, C++, Python, SQL, Go, Bash Scripting, JavaScript.
 - **Embedded Systems:** BLE, RTOS, DSP fundamentals, HW/SW debugging.
@@ -89,7 +89,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 
 ---
 
-## Languages
+## :speech_balloon: Languages
 
 - **Spanish:** A2 Certificate
 - **English:** Bilingual
