@@ -16,7 +16,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 **Tekskil SL, Remote (Barcelona)**  
 *Ongoing*
 
-- Develop and maintain Bluetooth Low Energy (BLE) over-the-air communication protocol.
+- Maintain Bluetooth Low Energy (BLE) over-the-air communication protocol focusing on the Host side.
 - Troubleshoot and debug third-party protocol stacks and develop demo applications.
 - Maintain internal BLE host stack interface tools and support infrastructure:- create applications, adapt or create new APIs.
 - Assisted in creating scripts for BLE qualification processes and UnPlugFests (UPF).
