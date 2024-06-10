@@ -6,12 +6,12 @@ _Embedded software engineer based in Barcelona,Spain_ <br>
 - Email: [amilumang13@gmail.com](mailto:amilumang13@gmail.com)
 - LinkedIn: [www.linkedin.com/amsh](https://www.linkedin.com/amsh)
 
-👨‍💻  ## Professional Summary
+## 👨‍💻Professional Summary
 <p style="text-align: justify;">
 Embedded Software Engineer with over 2 years of experience in developing and maintaining embedded systems. Proficient in C/C++ and Python, with a strong background in BLE communication protocols. Adept at troubleshooting, debugging, and collaborating with cross-disciplinary teams to deliver reliable, manufacturable solutions. Experienced in Agile development methodologies and Embedded systems development workflow. Skilled in operating effectively in remote and dynamic environments.
 </p>
 
-💼	 ## Professional Experience
+## 💼Professional Experience
 
 ### Embedded Software Engineer
 **Tekskil SL, Remote (Barcelona)**  
@@ -66,7 +66,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 
 ---
 
- 📚 ##Education
+## 📚Education
 
 **Master's Degree in Aerospace Science and Technology**  
 *Uttar Pradesh Technical University*  
@@ -78,7 +78,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 
 ---
 
-🧑‍💻 ## Key Skills
+## 🧑‍💻Key Skills
 
 - **Programming Languages:** C, C++, Python, SQL, Go, Bash Scripting, JavaScript.
 - **Embedded Systems:** BLE, RTOS, DSP fundamentals, HW/SW debugging.
@@ -89,7 +89,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 
 ---
 
-💬 ## Languages
+## 💬Languages
 
 - **Spanish:** A2 Certificate
 - **English:** Bilingual
@@ -97,14 +97,14 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 
 ---
 
-📌## Certificates and Courses
+## 📌Certificates and Courses
 
 - Data Analytics with Python
 - Statistics with Python
 
 ---
 
-🦋 ## Personal Attributes
+## 🦋Personal Attributes
 
 - Effective communicator and analytical problem solver.
 - Quick learner with a curiosity-driven approach.
