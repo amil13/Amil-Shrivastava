@@ -25,7 +25,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 - **Development Environment:** Microsoft Visual Studio, Eclipse.
 - **Methodology:** Agile (2-3 weeks sprints).
 
-### Software Engineer
+### Embedded Software Engineer
 **Cactus IoT, Barcelona**  
 *October 2022 - November 2022*
 
@@ -69,11 +69,11 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 ## 📚Education
 
 **Master's Degree in Aerospace Science and Technology**  
-*Uttar Pradesh Technical University*  
+*Polytechnic University of Catalonia, Spain*  
 *2019*
 
 **Bachelor's Degree in Electronics and Communications**  
-*Uttar Pradesh Technical University*  
+*Uttar Pradesh Technical University, India*  
 *2016*
 
 ---
