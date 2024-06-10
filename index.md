@@ -1,16 +1,17 @@
 # Amil Shrivastava
+_Embedded software engineer based in Barcelona,Spain_ <br>
 
 **Contact Information:**
 - Phone: +34642887686
 - Email: [amilumang13@gmail.com](mailto:amilumang13@gmail.com)
 - LinkedIn: [www.linkedin.com/amsh](https://www.linkedin.com/amsh)
 
-## Professional Summary
+## 👩🏼‍💻Professional Summary
 <p style="text-align: justify;">
 Embedded Software Engineer with over 2 years of experience in developing and maintaining embedded systems. Proficient in C/C++ and Python, with a strong background in BLE communication protocols. Adept at troubleshooting, debugging, and collaborating with cross-disciplinary teams to deliver reliable, manufacturable solutions. Experienced in Agile development methodologies and Embedded systems development workflow. Skilled in operating effectively in remote and dynamic environments.
 </p>
 
-## Professional Experience
+##	:briefcase: Professional Experience
 
 ### Embedded Software Engineer
 **Tekskil SL, Remote (Barcelona)**  
@@ -65,7 +66,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 
 ---
 
-## Education
+## :books: Education
 
 **Master's Degree in Aerospace Science and Technology**  
 *Uttar Pradesh Technical University*  
