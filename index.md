@@ -27,7 +27,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 
 ### Software Engineer
 **Cactus IoT, Barcelona**  
-*October 2022 - Present*
+*October 2022 - November 2022*
 
 - Developed notification features using mobile applications and BLE.
 - Implemented state machines and assisted in firmware development
