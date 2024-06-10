@@ -104,7 +104,7 @@ Embedded Software Engineer with over 2 years of experience in developing and mai
 
 ---
 
-## Personal Attributes
+🦋 ## Personal Attributes
 
 - Effective communicator and analytical problem solver.
 - Quick learner with a curiosity-driven approach.
